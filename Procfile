@@ -1,1 +1,1 @@
-web: sbt run --http.port=$PORT $PLAY_OPTS
+web: sbt "run 8080"
