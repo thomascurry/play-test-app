@@ -1,1 +1,1 @@
-web: sbt "run 8080"
+web: sbt "run $PORT"
