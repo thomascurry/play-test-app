@@ -1,1 +1,1 @@
-web: sbt run
+web: sbt run --http.port=$PORT $PLAY_OPTS
